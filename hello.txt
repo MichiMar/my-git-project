@@ -1,4 +1,4 @@
-My git Project
+funtionMy git Project
 
 git init
 git add .
