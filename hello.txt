@@ -3,4 +3,8 @@ My git Project
 git init
 git add .
 git commit -m "Text"
+<<<<<<< HEAD
 git push -u origin master
+=======
+git push -u origin master
+>>>>>>> hello-styling
